@@ -113,7 +113,7 @@ controls=""><a
 href="https://github.com/jhudsl/coqui/raw/refs/heads/main/README_cache/example.wav">Example
 Wav</a></audio>
 <figcaption aria-hidden="true"><a
-href="https://github.com/jhudsl/coqui/raw/refs/heads/main/README_cache/example.wav">Example
+href="https://github.com/jhudsl/coqui/README_cache/example.wav">Example
 Wav</a></figcaption>
 </figure>
 
