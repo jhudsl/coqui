@@ -103,7 +103,7 @@ text = c(
 res = cq_tts(text, path = "README_cache/example.wav")
 ```
 
-![Example Wav](https://github.com/jhudsl/coqui/raw/refs/heads/main/README_cache/example.wav)
+![[Example Wav](https://github.com/jhudsl/coqui/raw/refs/heads/main/README_cache/example.wav)](https://github.com/jhudsl/coqui/raw/refs/heads/main/README_cache/example.wav)
 
 ```r
 system2("play", res)
