@@ -106,11 +106,7 @@ text = c(
 res = cq_tts(text, path = "README_cache/example.wav")
 ```
 
-<figure>
-<audio src="README_cache/example.wav" controls=""><a
-href="README_cache/example.wav">Example Wav</a></audio>
-<figcaption aria-hidden="true">Example Wav</figcaption>
-</figure>
+![Example Wav]()\](README_cache/example.wav)
 
 ``` r
 system2("play", res)
